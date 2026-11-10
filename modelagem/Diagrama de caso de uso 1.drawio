@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="6YaE9HoCC2UpVFG587CQ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k2YvNvt0XomygwGEs9qR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="700" width="560" x="150" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-27" edge="1" parent="1" source="k2YvNvt0XomygwGEs9qR-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k2YvNvt0XomygwGEs9qR-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Mecânico" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-26" edge="1" parent="1" source="k2YvNvt0XomygwGEs9qR-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k2YvNvt0XomygwGEs9qR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Motorista&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="30" x="740" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-10" edge="1" parent="1" source="k2YvNvt0XomygwGEs9qR-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="k2YvNvt0XomygwGEs9qR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-11" connectable="0" parent="k2YvNvt0XomygwGEs9qR-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0638" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UCO01 - iniciar viagem" vertex="1">
+          <mxGeometry height="70" width="140" x="530" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;UCO02 -&lt;span id=&quot;docs-internal-guid-c3d8cd63-7fff-f761-007f-8c30b4f7d2e6&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Leitura dos Sensores das Peças&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="180" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-15" edge="1" parent="1" source="k2YvNvt0XomygwGEs9qR-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="k2YvNvt0XomygwGEs9qR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-16" connectable="0" parent="k2YvNvt0XomygwGEs9qR-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0559" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;UCO03 -&amp;nbsp;&lt;span id=&quot;docs-internal-guid-8fa0acc7-7fff-1988-8844-850939dc9905&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;alerta de peça quebrada&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="380" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-18" edge="1" parent="1" source="k2YvNvt0XomygwGEs9qR-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="k2YvNvt0XomygwGEs9qR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-19" connectable="0" parent="k2YvNvt0XomygwGEs9qR-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0558" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;UCO04 - &lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;bloqueio de emergência  do veiculo&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="180" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-28" edge="1" parent="1" source="k2YvNvt0XomygwGEs9qR-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k2YvNvt0XomygwGEs9qR-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-29" connectable="0" parent="k2YvNvt0XomygwGEs9qR-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0209" y="2" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-33" edge="1" parent="1" source="k2YvNvt0XomygwGEs9qR-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k2YvNvt0XomygwGEs9qR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-34" connectable="0" parent="k2YvNvt0XomygwGEs9qR-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0319" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="UCO05 -&amp;nbsp;&lt;span id=&quot;docs-internal-guid-aad088c9-7fff-4928-a3d6-5d82ae11086a&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline;&quot;&gt;Abrir Ordem de &lt;/span&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline;&quot;&gt;Manutenção&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="210" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="UCO06 - retirar peça do estoque" vertex="1">
+          <mxGeometry height="70" width="160" x="450" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YvNvt0XomygwGEs9qR-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;UCO07 -&lt;span id=&quot;docs-internal-guid-f64854e4-7fff-11c5-b48b-34456ea45842&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Realizar Teste de Segurança&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="460" y="800" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.4">
+  <diagram name="Página-1" id="HDka5RjEv9hzxZ1x90A6">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="3NTZuQ4k1QsBZ1TjdSCb-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="69" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-16" edge="1" parent="1" source="3NTZuQ4k1QsBZ1TjdSCb-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="3NTZuQ4k1QsBZ1TjdSCb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Cliente" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="39" as="geometry" />
+        </mxCell>
+        <mxCell id="B5oQLWfOXOm9Ld-cW8V7-2" edge="1" parent="1" source="3NTZuQ4k1QsBZ1TjdSCb-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="3NTZuQ4k1QsBZ1TjdSCb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5oQLWfOXOm9Ld-cW8V7-3" edge="1" parent="1" source="3NTZuQ4k1QsBZ1TjdSCb-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="B5oQLWfOXOm9Ld-cW8V7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Sistema" vertex="1">
+          <mxGeometry height="60" width="30" x="490" y="301.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC001: Cadastrar cliente" vertex="1">
+          <mxGeometry height="65" width="110" x="150" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC002: Cadastrar quartos" vertex="1">
+          <mxGeometry height="65" width="110" x="340" y="39" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="3NTZuQ4k1QsBZ1TjdSCb-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="149" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTNwAvG0n6PT-7S_MFa-1" edge="1" parent="1" source="3NTZuQ4k1QsBZ1TjdSCb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="3NTZuQ4k1QsBZ1TjdSCb-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Funcionário" vertex="1">
+          <mxGeometry height="60" width="30" x="380" y="159" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC003: Reservar quartos" vertex="1">
+          <mxGeometry height="65" width="110" x="150" y="119" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC004: Verificar disponibilidade do quarto" vertex="1">
+          <mxGeometry height="65" width="110" x="320" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-19" edge="1" parent="1" source="3NTZuQ4k1QsBZ1TjdSCb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="3NTZuQ4k1QsBZ1TjdSCb-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-20" connectable="0" parent="3NTZuQ4k1QsBZ1TjdSCb-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Extends" vertex="1">
+          <mxGeometry relative="1" x="0.2425" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NTZuQ4k1QsBZ1TjdSCb-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC005: Realizar pagamento" vertex="1">
+          <mxGeometry height="65" width="110" x="150" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="B5oQLWfOXOm9Ld-cW8V7-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC006: Gerar relatórios de reservas" vertex="1">
+          <mxGeometry height="65" width="110" x="320" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="OeJ9TSAmVoaleFKaburL-3" edge="1" parent="1" source="OeJ9TSAmVoaleFKaburL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="OeJ9TSAmVoaleFKaburL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OeJ9TSAmVoaleFKaburL-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;horizontal=1;" value="Gerente" vertex="1">
+          <mxGeometry height="60" width="30" x="550" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="OeJ9TSAmVoaleFKaburL-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC007: Cadastrar funcionários" vertex="1">
+          <mxGeometry height="65" width="110" x="510" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
